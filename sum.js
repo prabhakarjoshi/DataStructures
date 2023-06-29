@@ -8,3 +8,4 @@ const Mul=(a,b)=>a*b
 console.log(Mul(5,2))
 
 // add new
+// add Update feature
