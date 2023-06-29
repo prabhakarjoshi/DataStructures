@@ -7,5 +7,5 @@ console.log(subtract(5,2))
 const Mul=(a,b)=>a*b
 console.log(Mul(5,2))
 
-// add new
+// add new to sumjs
 // add Update feature
